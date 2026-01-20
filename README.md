@@ -93,16 +93,16 @@ Below are the snapshots of the Power BI Dashboards and Data Model designed for Z
 
 ### 8.1 Data Model View
 The **Star Schema** consisting of `fact_transaction` table linked with `dim_employee` table.
-![Data Model View](Power%20bi%20visualization/Model%20View.png)
+![Data Model View](<Power bi visualization/Model View.png>)
 
 ### 8.2 Employee Overview (Workforce)
 A complete overview of workforce distribution across departments and heirarchy.
-![Employee Overview](Power%20bi%20visualization/Employee%20Overview%20(Workforce).png)
+![Employee Overview](<Power bi visualization/Employee Overview (Workforce).png>)
 
 ### 8.3 Payroll Analytics (Finance)
 Detailed financial analysis showcasing cost vs payout, tax liabilities and top earners.
-![Payroll Analytics](Power%20bi%20visualization/Payroll%20Analytics%20(Finance).png)
+![Payroll Analytics](<Power bi visualization/Payroll Analytics (Finance).png>)
 
 ### 8.4 Attendance Analytics (Operations)
 Operational insights into employee attendance trends, overtime and presence consistency.
-![Attendance Analytics](Power%20bi%20visualization/Attendance%20Analytics%20(Operations).png)
+![Attendance Analytics](<Power bi visualization/Attendance Analytics (Operations).png>)
